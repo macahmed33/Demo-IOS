@@ -13,6 +13,7 @@
 		9FC1B4A02AC7389400839A71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC1B49E2AC7389400839A71 /* Main.storyboard */; };
 		9FC1B4A22AC7389500839A71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FC1B4A12AC7389500839A71 /* Assets.xcassets */; };
 		9FC1B4A52AC7389500839A71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FC1B4A32AC7389500839A71 /* LaunchScreen.storyboard */; };
+		9FC1B4AE2AC75D7600839A71 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1B4AD2AC75D7600839A71 /* DashboardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9FC1B4A12AC7389500839A71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FC1B4A42AC7389500839A71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FC1B4A62AC7389500839A71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FC1B4AD2AC75D7600839A71 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9FC1B4A12AC7389500839A71 /* Assets.xcassets */,
 				9FC1B4A32AC7389500839A71 /* LaunchScreen.storyboard */,
 				9FC1B4A62AC7389500839A71 /* Info.plist */,
+				9FC1B4AD2AC75D7600839A71 /* DashboardViewController.swift */,
 			);
 			path = "Demo-IOS";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9FC1B49D2AC7389400839A71 /* ViewController.swift in Sources */,
 				9FC1B4992AC7389400839A71 /* AppDelegate.swift in Sources */,
 				9FC1B49B2AC7389400839A71 /* SceneDelegate.swift in Sources */,
+				9FC1B4AE2AC75D7600839A71 /* DashboardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
